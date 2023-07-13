@@ -1,5 +1,6 @@
 # Tumblr
 
+![Tumblr](https://github.com/RedisMadani/Tumblr/assets/136177376/cabc8306-8eeb-48c1-bfa9-fc86e12a1684)
 
 ## Overview
 Tumblr is a Swift app that closely mimics the slide-in and slide-out transitions seen in Tumblr. It demonstrates the implementation of custom transition animations by extending the `UIViewControllerAnimatedTransitioning` and `UIViewControllerTransitioningDelegate` protocols.
